@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bellasbridals-dev-201951-authRole",
+      "UnauthRoleArn": "arn:aws:iam::452736267071:role/amplify-bellasbridals-dev-201951-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::452736267071:role/amplify-bellasbridals-dev-201951-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-bellasbridals-dev-201951-deployment",
+      "UnauthRoleName": "amplify-bellasbridals-dev-201951-unauthRole",
+      "StackName": "amplify-bellasbridals-dev-201951",
+      "StackId": "arn:aws:cloudformation:us-east-2:452736267071:stack/amplify-bellasbridals-dev-201951/6591b690-1a56-11eb-ac19-065c36e2dd4e",
+      "AmplifyAppId": "d2e3kdzxg11vnb"
+    }
+  }
+}
